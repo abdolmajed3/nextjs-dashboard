@@ -29,7 +29,7 @@ export default function Page() {
             <span>Log in</span>
           </Link>
         </div>
-        <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
+        <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12 6255866 q[],056[w643 K8kyUTX9MAkwNZd1">
           {/* Add Hero Images Here */}
           <Image
             src="/hero-desktop.png"
